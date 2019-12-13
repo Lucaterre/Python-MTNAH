@@ -21,7 +21,7 @@ Code qui compte certains éléments apparaissant dans une liste.
 et compte combien de fois le mot à (assigné à a_compter) 
 apparaît dans la liste de mots appelée mots.
 """
-
+    
 mots = texte.split()
 a_compter = "à"
 ex_a = "Là,"
@@ -37,3 +37,22 @@ print(nombre_de_resultats)
 # Ce test ne devrait pas lancer d'erreur si tout va bien
 assert nombre_de_resultats == 6, "Il devrait y avoir 6 résultats"
 
+#Exercice spécial du chat qui court...
+
+phrase = "Le petit chat court dans la prairie"
+
+my_dict = {}
+
+valeur = 0
+
+for lettre in phrase:
+    cle = lettre
+    if cle not in my_dict:
+        my_dict[cle] = valeur
+        valeur = valeur + 1
+
+print(my_dict)
+
+
+
+#trouver le moyen d'afficher la phrase entière avec ses identifiants unique
