@@ -55,4 +55,4 @@ print(my_dict)
 
 
 
-#trouver le moyen d'afficher la phrase entière avec ses identifiants unique
+#trouver le moyen d'afficher la phrase entière avec ses identifiants uniques
