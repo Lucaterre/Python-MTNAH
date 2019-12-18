@@ -42,17 +42,41 @@ assert nombre_de_resultats == 6, "Il devrait y avoir 6 résultats"
 phrase = "Le petit chat court dans la prairie"
 
 my_dict = {}
-
+list(phrase)
 valeur = 0
+
+index = 0
 
 for lettre in phrase:
     cle = lettre
     if cle not in my_dict:
         my_dict[cle] = valeur
-        valeur = valeur + 1
+        valeur += 1
 
+resultat =[]
+
+for lettre in phrase:
+    resultat.append(my_dict[lettre])
+print(resultat)
 print(my_dict)
 
 
+"""
+Alternative :
 
-#trouver le moyen d'afficher la phrase entière avec ses identifiants unique
+phrase = "Le petit chat court dans la prairie"
+
+gaffiot = []
+
+for char in phrase:
+    if char not in gaffiot:
+      gaffiot[char] = len(gaffiot)
+
+for char in phrase:
+    resultat.append(gaffiot[char])
+print(resultat)
+
+si phrase.split() => on coupe la phrase par mot et non par char
+
+"""
+
