@@ -80,3 +80,7 @@ si phrase.split() => on coupe la phrase par mot et non par char
 
 """
 
+<<<<<<< HEAD
+=======
+#trouver le moyen d'afficher la phrase entière avec ses identifiants uniques
+>>>>>>> 454a24fe6b829259de08e0df2f16292bc36c68a1
