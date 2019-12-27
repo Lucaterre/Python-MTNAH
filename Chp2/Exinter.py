@@ -92,7 +92,7 @@ du premier groupe au présent de l'indicatif
 def conjugue(verbe, clé):
     """
     Conjugue un verbe par extraction du radical et ajout de la terminaison
-    stocké dans un dictionnaire
+    stockée dans un dictionnaire
     :param verbe: verbe a conjuguer
     :type verbe : CHAR
     :param clé: clé du dictionnaire de terminaisons
