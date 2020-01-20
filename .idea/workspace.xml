@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e46f466-4b4d-4d57-8780-c44700edb695" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chp2/Frequence_horace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Ballade.XXVIII.dePisan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/horace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/tab_tweets.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/twitter.humanitesnumeriques.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outil_CLI/ifff_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chp4-JSON/Exercices_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chp4-Requests/module_requests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chp2/Exinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chp2/Exinter.py" afterDir="false" />
     </list>
@@ -76,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Outil_CLI/ifff_query.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="217">
+              <caret line="44" column="63" lean-forward="true" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
               <folding>
                 <element signature="e#352#362#0" expanded="true" />
               </folding>
@@ -376,12 +385,12 @@
       <workItem from="1578943245845" duration="4258000" />
       <workItem from="1579004660407" duration="879000" />
       <workItem from="1579044240955" duration="327000" />
-      <workItem from="1579543455492" duration="3803000" />
+      <workItem from="1579543455492" duration="4134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52198000" />
+    <option name="totallyTimeSpent" value="52529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1510" y="33" width="1440" height="823" extended-state="0" />
@@ -548,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Outil_CLI/ifff_query.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="217">
+          <caret line="44" column="63" lean-forward="true" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
           <folding>
             <element signature="e#352#362#0" expanded="true" />
           </folding>
